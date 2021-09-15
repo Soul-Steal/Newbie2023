@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soul-Steal
 - 👀 I’m interested in blockchain and machine learning.
-- 🌱 I’m currently learning code in C++ and Java.
-- 💞️ I’m looking to collaborate on blockchain project. I want to gain as much as experience working on projects.
+- 🌱 I’m currently learning to code in C++ and Java.
+- 💞️ I’m looking to collaborate on blockchain projects. I want to gain as much as experience working on blockchain projects.
 - 📫 How to reach me ...
 
 <!---
